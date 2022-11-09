@@ -54,7 +54,7 @@
 
 <h2> My GitHub Stats :bar_chart:</h2>
 
-![Metrics](https://metrics.lecoq.io/EDITH300?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/NEWBIENOOB-0?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 <br>
 </div>
 <div>
@@ -63,7 +63,7 @@
 <h2 align ="center">:memo: Contact me :memo:</h2>
 <br> 
 <div align="center">
-<a href="https://github.com/EDITH300" target="_blank">
+<a href="https://github.com/NEWBIENOOB-0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/EdithTony3000" target="_blank">
